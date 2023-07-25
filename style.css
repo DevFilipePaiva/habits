@@ -46,8 +46,16 @@ button {
   width: fit-contant;
 }
 
+.explicar{
+margin-left: 60px;
+font-family: 'inter';
+font-size: 16px;
+color: #a1a1aa
+  
+}
+
 .habits {
-  margin-top: 75px;
+  margin-top: 56px;
   display: flex;
   flex-direction: column;
   
