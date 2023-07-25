@@ -21,3 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um projeto pra ajudar a rastrear os hábitos.
+
+- [Visite nosso Projeto Online] (https://devfilipepaiva.github.io/habits/) 
